@@ -35,9 +35,6 @@ This project is designed for real estate enthusiasts, data scientists, and devel
 - **Currency Conversion**: Prices predicted in INR (Indian Rupees) for global relevance.
 - **Open-Source**: Fully customizable with detailed code breakdowns.
 
-![Overview Animation](https://placeholder.com/800x400?text=App+Overview+GIF&bg=141414&fg=FFD700)
-*(Placeholder for GIF: Animated demo showing dataset loading, slider adjustments, and price prediction with fade-in effects.)*
-
 ## 📋 Features in Detail
 
 ### 1. **Dataset Selection**
@@ -112,9 +109,6 @@ This project is designed for real estate enthusiasts, data scientists, and devel
    ```
    - Access at `http://127.0.0.1:7860/` in your browser.
 
-![Installation Animation](https://placeholder.com/800x400?text=Installation+Steps+GIF&bg=141414&fg=FFD700)
-*(Placeholder for GIF: Step-by-step animated terminal commands with success checks.)*
-
 ## 📖 Usage Guide
 
 ### Quick Start with California Dataset
@@ -163,26 +157,23 @@ Mean Target: 17,167,000.00
 Target Std Dev: 9,567,000.00
 ```
 
-![Usage Animation](https://placeholder.com/800x400?text=Usage+Demo+GIF&bg=141414&fg=FFD700)
-*(Placeholder for GIF: Full walkthrough from launch to prediction, with animated highlights on buttons and sliders.)*
-
 ## 📸 Screenshots
 
 ### 1. Home Screen
-![Home Screen](https://placeholder.com/800x600?text=Home+Screen&bg=0A0A0A&fg=FFD700)
-*(Description: Dataset selection panel with California and Custom options. Add animation: Pulsing load buttons.)*
+<img width="1544" height="822" alt="Screenshot 2025-10-22 154358" src="https://github.com/user-attachments/assets/3d8389ba-b1d0-4d22-b97d-62e9350d6569" />
+Description: Dataset selection panel with California and Custom options. Add animation: Pulsing load buttons.
 
 ### 2. Loaded Dataset with Sliders
-![Loaded Dataset](https://placeholder.com/800x600?text=Loaded+Dataset+Sliders&bg=0A0A0A&fg=FFD700)
-*(Description: Status showing R² and samples, sliders for features like MedInc, HouseAge. Animate sliders moving.)*
+<img width="1511" height="795" alt="Screenshot 2025-10-22 154515" src="https://github.com/user-attachments/assets/2d4921f3-479d-40a5-8f7c-aea3dac41cae" />
+Description: Status showing R² and samples, sliders for features like MedInc, HouseAge. Animate sliders moving.
 
 ### 3. CSV Preview and Feature Selection
-![CSV Preview](https://placeholder.com/800x600?text=CSV+Preview+&+Selection&bg=0A0A0A&fg=FFD700)
-*(Description: Uploaded CSV preview with column checkboxes and target dropdown. Animate row highlights.)*
+<img width="1596" height="778" alt="Screenshot 2025-10-22 154528" src="https://github.com/user-attachments/assets/b7cf719a-c8ba-40c7-9626-7cc27ac55b06" />
+Description: Uploaded CSV preview with column checkboxes and target dropdown. Animate row highlights.
 
 ### 4. Prediction Output
-![Prediction Output](https://placeholder.com/800x600?text=Prediction+Output&bg=0A0A0A&fg=FFD700)
-*(Description: Sliders adjusted, predicted price displayed in gold. Animate price reveal with confetti or fade-in.)*
+<img width="1652" height="904" alt="Screenshot 2025-10-22 154459" src="https://github.com/user-attachments/assets/fe5f9f02-e4f4-4c1a-b0e1-743706da422d" />
+Description: Sliders adjusted, predicted price displayed in gold. Animate price reveal with confetti or fade-in.
 
 ## 🔍 Technical Deep Dive
 
