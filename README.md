@@ -161,19 +161,19 @@ Target Std Dev: 9,567,000.00
 
 ### 1. Home Screen
 <img width="1544" height="822" alt="Screenshot 2025-10-22 154358" src="https://github.com/user-attachments/assets/3d8389ba-b1d0-4d22-b97d-62e9350d6569" />
-Description: Dataset selection panel with California and Custom options. Add animation: Pulsing load buttons.
 
-### 2. Loaded Dataset with Sliders
+
+### 2. Loaded Dataset 
 <img width="1511" height="795" alt="Screenshot 2025-10-22 154515" src="https://github.com/user-attachments/assets/2d4921f3-479d-40a5-8f7c-aea3dac41cae" />
-Description: Status showing R² and samples, sliders for features like MedInc, HouseAge. Animate sliders moving.
+
 
 ### 3. CSV Preview and Feature Selection
 <img width="1596" height="778" alt="Screenshot 2025-10-22 154528" src="https://github.com/user-attachments/assets/b7cf719a-c8ba-40c7-9626-7cc27ac55b06" />
-Description: Uploaded CSV preview with column checkboxes and target dropdown. Animate row highlights.
+
 
 ### 4. Prediction Output
 <img width="1652" height="904" alt="Screenshot 2025-10-22 154459" src="https://github.com/user-attachments/assets/fe5f9f02-e4f4-4c1a-b0e1-743706da422d" />
-Description: Sliders adjusted, predicted price displayed in gold. Animate price reveal with confetti or fade-in.
+
 
 ## 🔍 Technical Deep Dive
 
