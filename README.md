@@ -3,7 +3,7 @@
 <!-- @import "[TOC]" { minlevel: 2, maxlevel: 4 } -->
 
 <div align="center">
-<h1 align="center">🚀 DynamoCSVPredictor 🚀</h1>
+<h1 align="center">DynamoCSVPredictor</h1>
 <p align="center">
 An interactive, no-code machine learning platform for training and deploying regression models in real-time.
 <br />
@@ -21,7 +21,7 @@ An interactive, no-code machine learning platform for training and deploying reg
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Demo of the Full Workflow">
 </div>
 
-## 🚀 Project Overview
+## Project Overview
 
 The **Real Estate Price Predictor** is a sophisticated, user-friendly web application built with Gradio that leverages machine learning to forecast property prices. It supports both a built-in California Housing dataset (transformed to Indian Rupees for broader appeal) and custom CSV uploads for personalized predictions. Powered by a Gradient Boosting Regressor model from scikit-learn, this tool provides accurate price estimates based on key housing features like median income, house age, room counts, population, and location.
 
@@ -34,7 +34,7 @@ This project is designed for real estate enthusiasts, data scientists, and devel
 - **Currency Conversion**: Prices predicted in INR (Indian Rupees) for global relevance.
 - **Open-Source**: Fully customizable with detailed code breakdowns.
 
-## 📋 Features in Detail
+## Features in Detail
 
 ### 1. **Dataset Selection**
    - **Built-in California Housing Dataset**: 
@@ -73,7 +73,7 @@ This project is designed for real estate enthusiasts, data scientists, and devel
    - Supports up to 10 features for sliders (hides extras).
    - API-ready: Use via Gradio's built-in API for integration.
 
-## 🛠️ Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8+ (tested on 3.12.3).
@@ -108,7 +108,7 @@ This project is designed for real estate enthusiasts, data scientists, and devel
    ```
    - Access at `http://127.0.0.1:7860/` in your browser.
 
-## 📖 Usage Guide
+## Usage Guide
 
 ### Quick Start with California Dataset
 1. Launch the app.
@@ -157,7 +157,7 @@ Mean Target: 17,167,000.00
 Target Std Dev: 9,567,000.00
 ```
 
-## 📸 Screenshots
+## Project Screenshots
 
 ### 1. Home Screen
 <img width="1544" height="822" alt="Screenshot 2025-10-22 154358" src="https://github.com/user-attachments/assets/3d8389ba-b1d0-4d22-b97d-62e9350d6569" />
@@ -175,7 +175,7 @@ Target Std Dev: 9,567,000.00
 <img width="1652" height="904" alt="Screenshot 2025-10-22 154459" src="https://github.com/user-attachments/assets/fe5f9f02-e4f4-4c1a-b0e1-743706da422d" />
 
 
-## 🔍 Technical Deep Dive
+## Technical Overview
 
 ### Code Structure
 - **train.py**: Handles data loading, preprocessing, model training, and metrics calculation. Supports custom CSV fallback to California data.
@@ -188,7 +188,7 @@ Target Std Dev: 9,567,000.00
 - **Deployment**: Host on Hugging Face Spaces for free, with custom domain support.
 - **Error Handling**: Robust try-except blocks for CSV issues, missing data, etc.
 
-## 🤝 Contributing
+## Ways to Contribute
 
 Contributions welcome! Fork the repo, create a branch, and submit a PR.
 - Report issues via GitHub Issues.
