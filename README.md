@@ -13,7 +13,6 @@ An interactive, no-code machine learning platform for training and deploying reg
 <img src="https://img.shields.io/badge/Python-3.12%2B-blue?style=for-the-badge&logo=python" alt="Python Version">
 <img src="https://img.shields.io/badge/Gradio-4.39.0-orange?style=for-the-badge&logo=gradio" alt="Gradio Version">
 <img src="https://img.shields.io/badge/Scikit--learn-1.3.2-blueviolet?style=for-the-badge&logo=scikit-learn" alt="Scikit-learn Version">
-<img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
 </p>
 
 </div>
@@ -83,8 +82,8 @@ This project is designed for real estate enthusiasts, data scientists, and devel
 ### Steps
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/yourusername/real-estate-predictor.git
-   cd real-estate-predictor
+   git clone https://github.com/PremRajivGIT/DynamoCSVPredictor_UI
+   cd DynamoCSVPredictor_UI
    ```
 
 2. **Create Virtual Environment**:
@@ -122,8 +121,9 @@ This project is designed for real estate enthusiasts, data scientists, and devel
 1. Upload your CSV (e.g., with columns like longitude, latitude, etc., and a price target).
 2. Click **Preview CSV** to see data summary.
 3. Select features (checkboxes) and target (dropdown).
-4. Click **Train Model**.
-5. Use sliders to predict.
+4. Make sure to uncheck the feature you are trying to predict.(or you might get 100% accuracy in predictions, which isn't true)
+5. Click **Train Model**.
+6. Use sliders to predict custom values.
 
 ### Example CSV Structure
 ```
